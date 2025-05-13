@@ -9,7 +9,7 @@ Esta página foi criada para apresentar de forma direta e objetiva meu perfil pr
 
 ## 📸 Preview
 
-![preview da landing page](./img/preview.png)
+![preview da landing page](/img/preview.png)
 
 Acesse a landing page: [meuportifolio.dev](https://alissonls.github.io/Landing_Portifolio/public/)
 
