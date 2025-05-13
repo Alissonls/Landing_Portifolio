@@ -9,9 +9,9 @@ Esta página foi criada para apresentar de forma direta e objetiva meu perfil pr
 
 ## 📸 Preview
 
-![preview da landing page](./public/preview.png)
+![preview da landing page](./img/preview.png)
 
-Acesse a landing page: [meuportifolio.dev](https://meuportifolio.dev)
+Acesse a landing page: [meuportifolio.dev](https://alissonls.github.io/Landing_Portifolio/public/)
 
 ## ✨ Funcionalidades
 
@@ -26,7 +26,6 @@ Acesse a landing page: [meuportifolio.dev](https://meuportifolio.dev)
 
 - **HTML5**, **CSS3** com **TailwindCSS**
 - **JavaScript (ES6+)**
-- **React.js** (ou Vanilla JS, conforme sua stack)
 - **EmailJS** (para envio de mensagens)
 - **Vite** ou **Webpack** (build otimizado)
 
