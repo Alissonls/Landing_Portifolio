@@ -7,9 +7,6 @@ Este repositório contém a **Landing Page do meu Portfólio de Desenvolvedor(a)
 Esta página foi criada para apresentar de forma direta e objetiva meu perfil profissional, habilidades técnicas, principais projetos e formas de contato.  
 É a porta de entrada para recrutadores e empresas conhecerem meu trabalho e navegarem por meu portfólio de maneira fluida.
 
-## 📸 Preview
-
-![preview da landing page](/img/preview.png)
 
 Acesse a landing page: [meuportifolio.dev](https://alissonls.github.io/Landing_Portifolio/public/)
 
